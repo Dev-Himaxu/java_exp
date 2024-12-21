@@ -1,2 +1,2 @@
 # java_exp
-Java code
+This repo contains my java code and projects.
